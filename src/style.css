@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hello {
+  background-color: #f7f8fa;
+  height: 100vh;
+}
